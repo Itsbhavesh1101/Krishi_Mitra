@@ -1,0 +1,1 @@
+[2025-08-24T09:00:20] Issue Creation & Setup - Set up database models for daily crop market prices (mandi) and user profiles. (Commit 1/7)
