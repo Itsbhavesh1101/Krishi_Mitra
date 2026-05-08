@@ -362,3 +362,4 @@
 [2026-05-04T17:34:39] Pull Request Merge - Update README with system design diagram, API endpoints list, and local installation guide. (Commit 6/8)
 [2026-05-04T19:17:31] Pull Request Merge - Update README with system design diagram, API endpoints list, and local installation guide. (Commit 7/8)
 [2026-05-04T21:00:01] Pull Request Merge - Update README with system design diagram, API endpoints list, and local installation guide. (Branch final commit)
+[2026-05-08T09:00:17] Testing & CI/CD pipeline configuration - Optimize leaf image classification model parameters to fit under API memory limits. (Commit 1/7)
